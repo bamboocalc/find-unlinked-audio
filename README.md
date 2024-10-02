@@ -4,6 +4,7 @@ Running "find_unvoiced_lines.py" will return CSVs which contain all unvoiced dia
 
 
 ---------------IMPORTANT----------------
+
 These tools assume the following:
 
 1. You have RenPy auto voice enabled and all your voice lines are inside the "voice" folder that is inside the "game" folder
