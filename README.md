@@ -10,11 +10,12 @@ https://youtu.be/7sZjOY1F4R0
 These tools assume the following:
 
 1. You have RenPy auto voice enabled and all your voice lines are inside the "voice" folder that is inside the "game" folder
-define config.auto_voice = "voice/{id}.ogg"
+   
+```define config.auto_voice = "voice/{id}.ogg"```
 
-2. All of your voice lines are saved in .ogg format
+3. All of your voice lines are saved in .ogg format
 
-3. You are using Windows
+4. You are using Windows
 
-4. Your RenPy Projects Directory has the path "C:\Users\YOUR_USERNAME\Documents" where "YOUR_USERNAME" is the username that you use to login to your computer with
+5. Your RenPy Projects Directory has the path "C:\Users\YOUR_USERNAME\Documents" where "YOUR_USERNAME" is the username that you use to login to your computer with
 ------------------------------------------
