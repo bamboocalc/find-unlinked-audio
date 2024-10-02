@@ -3,7 +3,6 @@ Running "find_unlinked_audio.py" will return a list of .ogg files that have no m
 Running "find_unvoiced_lines.py" will return a batch of CSVs which contain all unvoiced dialog lines for every character in your game
 
 Video tutorial on how to use these scripts:
-
 https://youtu.be/7sZjOY1F4R0
 
 ---------------IMPORTANT----------------
