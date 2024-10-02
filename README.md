@@ -1,6 +1,6 @@
-Running "find_unlinked_audio.py" will return a list of ogg files that have no matching dialog ID
+Running "find_unlinked_audio.py" will return a list of .ogg files that have no matching dialog ID
 
-Running "find_unvoiced_lines.py" will return CSVs which contain all unvoiced dialog lines for every character in your game
+Running "find_unvoiced_lines.py" will return a batch of CSVs which contain all unvoiced dialog lines for every character in your game
 
 
 ---------------IMPORTANT----------------
