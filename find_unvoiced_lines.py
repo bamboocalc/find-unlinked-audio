@@ -3,10 +3,10 @@ import pandas
 
 # Path to the tab file and voice folder
 # Change the path as needed, so that it matches the directory of your RenPy project folder!
-tab_file_path = os.path.join(os.path.expanduser('~'), '/Documents/YOUR_GAME_NAME_GOES_HERE/dialogue.tab') # replace "YOUR_GAME_NAME_GOES_HERE" with the project name of your game
-voice_folder_path = os.path.join(os.path.expanduser('~'), '/Documents/YOUR_GAME_NAME_GOES_HERE/game/voice') # replace "YOUR_GAME_NAME_GOES_HERE" with the project name of your game
+tab_file_path = os.path.join(os.path.expanduser('~'), 'Documents/YOUR_GAME_NAME_GOES_HERE/dialogue.tab') # replace "YOUR_GAME_NAME_GOES_HERE" with the project name of your game
+voice_folder_path = os.path.join(os.path.expanduser('~'), 'Documents/YOUR_GAME_NAME_GOES_HERE/game/voice') # replace "YOUR_GAME_NAME_GOES_HERE" with the project name of your game
 # Path to the output
-output_folder_path = os.path.join(os.path.expanduser('~'), '/Documents/YOUR_GAME_NAME_GOES_HERE/game/character_csvs') # Change this path to the location where you want the output files to generate
+output_folder_path = os.path.join(os.path.expanduser('~'), 'Documents/YOUR_GAME_NAME_GOES_HERE/game/character_csvs') # Change this path to the location where you want the output files to generate
 
 # Check to make sure a folder with the name "character_csvs" exists to store the output files
 os.makedirs(output_folder_path, exist_ok=True)
